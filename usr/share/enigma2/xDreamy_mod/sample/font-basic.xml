@@ -1,0 +1,52 @@
+<fonts>
+<font name="Regular" filename="/usr/share/enigma2/xDreamy_mod/fonts/Rubik-Regular.ttf" scale="96" />
+    <font name="LCD" filename="/usr/share/fonts/lcd.ttf" scale="100" />
+    <font name="Console" filename="/usr/share/fonts/tuxtxt.ttf" scale="100" />
+    <font name="Fixed" filename="/usr/share/fonts/andale.ttf" scale="100" />
+    <font name="Replacement" filename="/usr/share/fonts/ae_AlMateen.ttf" scale="100" replacement="1" />
+    <font filename="/usr/share/enigma2/xDreamy_mod/fonts/Andlso.ttf" name="Andalus" scale="100" />
+    <font filename="/usr/share/enigma2/xDreamy_mod/fonts/Beiruti-Regular.ttf" name="Beiruti" scale="100" />
+    <font filename="/usr/share/enigma2/xDreamy_mod/fonts/BonaNovaSC-Regular.ttf" name="BonaNovaSC" scale="100" />
+    <font filename="/usr/share/enigma2/xDreamy_mod/fonts/Dubai-REGULAR.ttf" name="Dubai" scale="100" />
+    <font filename="/usr/share/enigma2/xDreamy_mod/fonts/ElMessiri-Regular.ttf" name="ElMessiri" scale="100" />
+    <font filename="/usr/share/enigma2/xDreamy_mod/fonts/Fustat-Regular.ttf" name="Fustat" scale="100" />
+    <font filename="/usr/share/enigma2/xDreamy_mod/fonts/Nmsbd.ttf" name="Nmsbd" scale="100" />
+    <font filename="/usr/share/enigma2/xDreamy_mod/fonts/Lucida.ttf" name="Lucida" scale="100" />
+    <font filename="/usr/share/enigma2/xDreamy_mod/fonts/Majalla.ttf" name="Majalla" scale="100" />
+    <font filename="/usr/share/enigma2/xDreamy_mod/fonts/Mvboli.ttf" name="MV Boli" scale="100" />
+    <font filename="/usr/share/enigma2/xDreamy_mod/fonts/NaskhArabic-Regular.ttf" name="Naskh" scale="100" />
+    <font filename="/usr/share/enigma2/xDreamy_mod/fonts/PlexSansArabic-Regular.ttf" name="PlexSans" scale="100" />
+    <font filename="/usr/share/enigma2/xDreamy_mod/fonts/ReadexPro-Regular.ttf" name="ReadexPro" scale="100" />
+    <font filename="/usr/share/enigma2/xDreamy_mod/fonts/Rubik-Regular.ttf" name="Rubik" scale="100" />
+    <font filename="/usr/share/enigma2/xDreamy_mod/fonts/Tajawal-Regular.ttf" name="Tajawal" scale="100" />
+    <font filename="/usr/share/enigma2/xDreamy_mod/fonts/Verdana.ttf" name="Verdana" scale="100" />
+    <font filename="/usr/share/enigma2/xDreamy_mod/fonts/Zain-Regular.ttf" name="Zain" scale="100" />
+    <font filename="/usr/share/enigma2/xDreamy_mod/fonts/Eurofighteroutital.ttf" name="Eurofighteroutital" scale="100" />
+    <font filename="/usr/share/enigma2/xDreamy_mod/fonts/NotoSans-Bold.ttf" name="NotoSans-Bold" scale="100" />
+    <alias name="Body" font="NotoSans-Bold" size="32" height="50" />
+    <alias name="TextNormal" font="NotoSans-Bold" size="30" height="50" />
+    <alias name="ChoiceList" font="NotoSans-Bold" size="32" height="50" />
+    <alias name="FileList" font="NotoSans-Bold" size="30" height="80" />
+    <alias name="FileListMulti" font="NotoSans-Bold" size="30" height="80" />
+    <alias name="PluginBrowser0" font="NotoSans-Bold" size="32" height="76" />
+    <alias name="PluginBrowser1" font="NotoSans-Bold" size="28" />
+    <alias name="ServiceInfo" font="NotoSans-Bold" size="30" height="45" />
+    <alias name="SelectionList" font="NotoSans-Bold" size="28" height="50" />
+    <alias name="PartnerBoxEntryList0" font="NotoSans-Bold" size="28" height="38" />
+    <alias name="PartnerBoxEntryList1" font="NotoSans-Bold" size="28" />
+    <alias name="PartnerBoxE2TimerMenu0" font="NotoSans-Bold" size="32" height="114" />
+    <alias name="PartnerBoxE2TimerMenu1" font="NotoSans-Bold" size="28" />
+    <alias name="PartnerBoxBouquetList0" font="NotoSans-Bold" size="32" height="45" />
+    <alias name="PartnerBoxBouquetList1" font="NotoSans-Bold" size="28" />
+    <alias name="PartnerBoxChannelList0" font="NotoSans-Bold" size="32" height="114" />
+    <alias name="PartnerBoxChannelList1" font="NotoSans-Bold" size="28" />
+    <alias name="PartnerBoxChannelEPGList0" font="NotoSans-Bold" size="32" height="38" />
+    <alias name="PartnerBoxChannelEPGList1" font="NotoSans-Bold" size="28" />
+    <alias name="VirtualKeyBoard" font="NotoSans-Bold" size="42" height="68" />
+    <alias name="HelpMenuList" font="NotoSans-Bold" size="30" height="45" />
+    <alias name="HelpMenuListExt0" font="NotoSans-Bold" size="32" height="75" />
+    <alias name="HelpMenuListExt1" font="NotoSans-Bold" size="28" />
+    <alias name="Dreamexplorer" font="NotoSans-Bold" size="28" height="38" />
+    <alias name="PlayList" font="NotoSans-Bold" size="28" height="50" />
+    <alias name="MenuList" font="NotoSans-Bold" size="30" height="80" />
+  </fonts>

@@ -1,0 +1,3 @@
+# set country or first ip value to disable vpn state (without #) -> this has lower rating as values in 'isvpn.txt'
+#DE
+#87.

@@ -1,0 +1,10 @@
+Package: enigma2-plugin-skins-xdreamy-mod
+Version: 5.0.0
+Section: base
+Priority: required
+Architecture: all
+Maintainer: daniel_dlewis
+Description: XDREAMY_mod is a New Vision Skin By Inspiron
+Source: enigma2-plugin-skins-xDreamy-mod.bb
+OE: enigma2-plugin-skins-xDreamy-mod
+License: GPLv2+

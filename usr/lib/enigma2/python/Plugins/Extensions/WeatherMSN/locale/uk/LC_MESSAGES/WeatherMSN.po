@@ -1,0 +1,367 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WeatherMSN\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-07-29 01:13+0100\n"
+"PO-Revision-Date: 2020-02-15 18:22+0300\n"
+"Last-Translator: Sirius <sirius.altech@gmail.com>\n"
+"Language-Team: sirius.altech@gmail.com\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"Language: uk\n"
+"X-Generator: Poedit 1.8.6\n"
+
+msgid "Weather MSN"
+msgstr "Погода MSN"
+
+msgid "Weather forecast, astronomical calculations"
+msgstr "Прогноз погоди, астрономічні розрахунки"
+
+msgid "Config Weather MSN"
+msgstr "Конфігурація Погода MSN"
+
+msgid "Show Weather MSN in menu information:"
+msgstr "Показати Погода MSN у меню інформація:"
+
+msgid "Julian day:"
+msgstr "Юліанська дата:"
+
+msgid "Sun rise:"
+msgstr "Схід сонця:"
+
+msgid "Sun set:"
+msgstr "Захід сонця:"
+
+msgid "Solstice:"
+msgstr "Iстинний полудень:"
+
+msgid "Mercury rise:"
+msgstr "Схід Меркурія:"
+
+msgid "Mercury set:"
+msgstr "Захід Меркурія:"
+
+msgid "Mercury culmination:"
+msgstr "Кульмінація Меркурія:"
+
+msgid "Mercury azimuth:"
+msgstr "Азимут Меркурія:"
+
+msgid "Venus rise:"
+msgstr "Схід Венери:"
+
+msgid "Venus set:"
+msgstr "Захід Венери:"
+
+msgid "Venus culmination:"
+msgstr "Кульмінація Венери:"
+
+msgid "Venus azimuth:"
+msgstr "Азимут Венери:"
+
+msgid "Mars rise:"
+msgstr "Схід Марса:"
+
+msgid "Mars set:"
+msgstr "Захід Марса:"
+
+msgid "Mars culmination:"
+msgstr "Кульмінація Марса:"
+
+msgid "Mars azimuth:"
+msgstr "Азимут Марса:"
+
+msgid "Jupiter rise:"
+msgstr "Схід Юпітера:"
+
+msgid "Jupiter set:"
+msgstr "Захід Юпітера:"
+
+msgid "Jupiter culmination:"
+msgstr "Кульмінація Юпітера:"
+
+msgid "Jupiter azimuth:"
+msgstr "Азимут Юпітера:"
+
+msgid "Saturn rise:"
+msgstr "Схід Сатурна:"
+
+msgid "Saturn set:"
+msgstr "Захід Сатурна:"
+
+msgid "Saturn culmination:"
+msgstr "Кульмінація Сатурна:"
+
+msgid "Saturn azimuth:"
+msgstr "Азимут Сатурна:"
+
+msgid "Uranus rise:"
+msgstr "Схід Урана:"
+
+msgid "Uranus set:"
+msgstr "Захід Урана:"
+
+msgid "Uranus culmination:"
+msgstr "Кульмінація Урана:"
+
+msgid "Uranus azimuth:"
+msgstr "Азимут Урана:"
+
+msgid "Neptune rise:"
+msgstr "Схід Нептуна:"
+
+msgid "Neptune set:"
+msgstr "Захід Нептуна:"
+
+msgid "Neptune culmination:"
+msgstr "Кульмінація Нептуна:"
+
+msgid "Neptune azimuth:"
+msgstr "Азимут Нептуна:"
+
+msgid "Moon rise:"
+msgstr "Схід Місяця:"
+
+msgid "Moon set:"
+msgstr "Захід Місяця:"
+
+msgid "Moon culmination:"
+msgstr "Кульмінація Місяця:"
+
+msgid "Moon azimuth:"
+msgstr "Азимут Місяця:"
+
+msgid "Moon light:"
+msgstr "Видимість Місяця:"
+
+msgid "Moon distance:"
+msgstr "Відстань до Місяця:"
+
+msgid "Rise:"
+msgstr "Схід:"
+
+msgid "Set:"
+msgstr "Захід:"
+
+msgid "Culmination:"
+msgstr "Кульмінація:"
+
+msgid "Azimuth:"
+msgstr "Азимут:"
+
+msgid "Sun:"
+msgstr "Сонце:"
+
+msgid "Mercury:"
+msgstr "Меркурій:"
+
+msgid "Venus:"
+msgstr "Венера:"
+
+msgid "Mars:"
+msgstr "Марс:"
+
+msgid "Jupiter:"
+msgstr "Юпітер:"
+
+msgid "Saturn:"
+msgstr "Сатурн:"
+
+msgid "Uranus:"
+msgstr "Уран:"
+
+msgid "Neptune:"
+msgstr "Нептун:"
+
+msgid "Moon:"
+msgstr "Місяць:"
+
+msgid "Location:"
+msgstr "Місцезнаходження:"
+
+msgid "Timezone:"
+msgstr "Часовий пояс:"
+
+msgid "Latitude:"
+msgstr "Широта:"
+
+msgid "Longitude:"
+msgstr "Довгота:"
+
+msgid "Temperature:"
+msgstr "Температура:"
+
+msgid "Feels like:"
+msgstr "Відчувається:"
+
+msgid "Humidity:"
+msgstr "Вологість:"
+
+msgid "Chance precip:"
+msgstr "Ймовірність опадів:"
+
+msgid "Wind:"
+msgstr "Вітер:"
+
+msgid "Observation point:"
+msgstr "Точка спостереження:"
+
+msgid "Date:"
+msgstr "Дата:"
+
+msgid "Day week:"
+msgstr "День тижня:"
+
+msgid "m/s"
+msgstr "м/с"
+
+msgid "ft/s"
+msgstr "фут/с"
+
+msgid "km/h"
+msgstr "км/год"
+
+msgid "mp/h"
+msgstr "миль/год"
+
+msgid "knots"
+msgstr "вузли"
+
+msgid "%s h"
+msgstr "%s год"
+
+msgid "Search Location"
+msgstr "Пошук місцезнаходження"
+
+msgid "Search Location Weather MSN"
+msgstr "Пошук місцезнаходження Погода MSN"
+
+msgid "Scale of wind speed:"
+msgstr "Шкала швидкості вітру:"
+
+msgid "Scale of temperature:"
+msgstr "Шкала температури:"
+
+msgid "Celsius"
+msgstr "Цельсій"
+
+msgid "Fahrenheit"
+msgstr "Фаренгейт"
+
+msgid "Create converter in system:"
+msgstr "Створити конвертер у системі:"
+
+msgid "Configuration is saved"
+msgstr "Конфігурацію збережено"
+
+msgid "Do you want to restart the GUI now ?"
+msgstr "Бажаєте перезапустити GUI зараз ?"
+
+msgid "New moon"
+msgstr "Новий Місяць"
+
+msgid "Full moon"
+msgstr "Повний Місяць"
+
+msgid "Waxing cresent"
+msgstr "Зростаючий півмісяць"
+
+msgid "First quarter"
+msgstr "Перша чверть"
+
+msgid "Waxing gibbous"
+msgstr "Зростаючий опуклий місяць"
+
+msgid "Waning crescent"
+msgstr "Спадаючий півмісяць"
+
+msgid "Last quarter"
+msgstr "Остання чверть"
+
+msgid "Waning gibbous"
+msgstr "Спадаючий опуклий місяць"
+
+msgid "%.01f m/s"
+msgstr "%.01f м/с"
+
+msgid "%.01f km/h"
+msgstr "%.01f км/год"
+
+msgid "%.01f ft/s"
+msgstr "%.01f фут/с"
+
+msgid "%.01f mp/h"
+msgstr "%.01f миль/год"
+
+msgid "%.01f knots"
+msgstr "%.01f вузлів"
+
+msgid "%s m/s"
+msgstr "%s м/с"
+
+msgid "%s km/h"
+msgstr "%s км/год"
+
+msgid "%s mp/h"
+msgstr "%s миль/год"
+
+msgid "%s km"
+msgstr "%s км"
+
+# python-formats
+msgid "%s"
+msgstr "%s"
+
+msgid "%s%s%s"
+msgstr "%s%s%s"
+
+msgid "%s %s"
+msgstr "%s %s"
+
+msgid "%s %s %s"
+msgstr "%s %s %s"
+
+msgid "%s%s%s / %s%s%s"
+msgstr "%s%s%s / %s%s%s"
+
+msgid "Enter text to search city"
+msgstr "Вкажіть назву для пошуку"
+
+msgid "Close"
+msgstr "Закрити"
+
+msgid "Save"
+msgstr "Зберегти"
+
+msgid "no"
+msgstr "Ні"
+
+msgid "yes"
+msgstr "Так"
+
+msgid "n/a"
+msgstr "n/a"
+
+msgid ""
+"Weather MSN \n"
+"Developer: Sirius0103 \n"
+"Homepage: www.gisclub.tv \n"
+"Github: www.github.com/Sirius0103 \n"
+"\n"
+"Donate: \n"
+"R460680746216 \n"
+"Z395874509364 \n"
+"E284580190260"
+msgstr ""
+"Погода MSN \n"
+"Розробник: Sirius0103 \n"
+"Сторінка: www.gisclub.tv \n"
+"Github: www.github.com/Sirius0103 \n"
+"\n"
+"Подякувати: \n"
+" \n"
+"R460680746216 \n"
+"Z395874509364 \n"
+"E284580190260"

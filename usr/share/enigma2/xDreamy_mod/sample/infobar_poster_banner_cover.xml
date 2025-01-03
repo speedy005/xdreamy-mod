@@ -1,0 +1,46 @@
+﻿<screen name="InfoBar" position="0,0" size="1920,1080" title="InfoBar" backgroundColor="transparent" flags="wfNoBorder">
+  <panel name="InfoBarTemplate" />
+  <panel name="Weather_infobar3_days" />
+  <!--<panel name="Weather_infobar5days_no_moon" />-->
+  <!--<panel name="Weather_infobar_moon" />-->
+  <!--<panel name="Weather_infobar5days" />-->
+  <panel name="flipclock_infobar" />
+  <ePixmap pixmap="xDreamy_mod/menu/no_bannerr3.png" cornerRadius="10" borderWidth="1" borderColor="ltbluette" position="464,193" size="920,220" zPosition="1" alphatest="blend" />
+  <ePixmap pixmap="xDreamy_mod/menu/no_poster33.png" cornerRadius="10" borderWidth="1" borderColor="ltbluette" position="1619,474" size="295,395" zPosition="1" alphatest="blend" />
+  <eLabel position="1915,899" size="4,178" backgroundColor="ltbluette" zPosition="5" />
+  <eLabel position="1421,188" size="477,3" backgroundColor="ltbluette" zPosition="5" />
+  <ePixmap pixmap="xDreamy_mod/iconsepg/star_b.png" position="1680,871" size="200,20" alphatest="blend" zPosition="0" transparent="1" />
+  <widget source="session.Event_Now" render="Progress" pixmap="xDreamy_mod/iconsepg/star.png" position="1680,871" size="200,20" alphatest="blend" zPosition="3" transparent="1">
+    <convert type="xDreamyinfoMovie">STARS</convert>
+  </widget>
+  <widget render="xtraParental" source="session.Event_Now" position="1854,808" size="60,60" alphatest="blend" zPosition="6" transparent="1" />
+  <widget foregroundColor="mediumblue" source="session.CurrentService" position="1545,285" size="280,40" render="Label" font="NotoSans-Bold; 28" halign="left" valign="top" backgroundColor="background" transparent="1" zPosition="10">
+    <convert type="xDreamy_IPChecker">city</convert>
+  </widget>
+  <eLabel position="1896,190" size="3,270" backgroundColor="ltbluette" zPosition="5" />
+  <eLabel position="1421,191" size="3,270" backgroundColor="ltbluette" zPosition="5" />
+  <eLabel position="1424,458" size="474,3" backgroundColor="ltbluette" zPosition="5" />
+  <eLabel position="1423,190" size="472,270" backgroundColor="un101010" zPosition="-1" />
+  <eLabel backgroundColor="background" foregroundColor="listRecording" font="NotoSans-Bold; 28" position="1474,285" size="80,40" text="City:" transparent="1" zPosition="10" valign="top" />
+  <eLabel backgroundColor="background" foregroundColor="ltbluette" font="NotoSans-Bold; 28" position="1515,240" size="135,40" text="Country:" transparent="1" zPosition="10" valign="top" />
+  <eLabel backgroundColor="background" font="NotoSans-Bold; 28" position="1518,197" size="120,40" text="VPN-IP:" transparent="1" zPosition="10" valign="top" foregroundColor="yellow" />
+  <widget foregroundColor="green" source="session.CurrentService" position="1645,240" size="235,40" render="Label" font="NotoSans-Bold; 28" halign="left" valign="top" backgroundColor="background" transparent="1" zPosition="10" text="United Koingdom">
+    <convert type="xDreamy_IPChecker">country</convert>
+  </widget>
+  <widget foregroundColor="listRecording" source="session.CurrentService" position="1640,197" size="250,40" render="Label" font="NotoSans-Bold; 28" halign="left" valign="top" backgroundColor="background" transparent="1" zPosition="10" text="199.200.200.200">
+    <convert type="xDreamy_UTIPdata">myip</convert>
+  </widget>
+  <widget position="1805,289" size="80,50" zPosition="11" render="xDreamy_UTIPflag" source="session.CurrentService" alphatest="blend">
+    <convert type="xDreamy_UTIPdata">flag</convert>
+  </widget>
+ <widget source="session.Event_Now" render="xtraPoster" position="1619,474" size="295,395" cornerRadius="10" zPosition="5" borderWidth="2" borderColor="grey" transparent="1" />
+  <widget backgroundColor="transpBlack" font="NotoSans-Bold; 28" position="1103,583" size="500,235" render="iRunningText" options="movetype=running,direction=top,startpoint=0,startdelay=4000,wrap=1,always=0,repeat=2,oneshot=1" source="session.Event_Now" transparent="1" zPosition="1" foregroundColor="green" halign="center">
+    <convert type="EventName">ExtendedDescription</convert>
+  </widget>
+  <widget backgroundColor="transpBlack" foregroundColor="listRecording" font="NotoSans-Bold; 45" position="2,755" render="iRunningText" options="movetype=running,direction=left,startpoint=0,startdelay=3000,wrap=1,always=0,repeat=2,oneshot=1" size="1120,69" source="session.Event_Now" transparent="1" valign="bottom" zPosition="1" borderWidth="2" borderColor="black">
+    <convert type="EventName">Name</convert>
+  </widget>
+<widget source="session.Event_Now" render="xtraBanner" position="465,192" size="920,220" cornerRadius="12" zPosition="5" borderWidth="2" borderColor="grey" transparent="1" />
+<ePixmap pixmap="xDreamy_mod/menu/no_poster3.png" cornerRadius="10" borderWidth="1" borderColor="ltbluette" position="8,457" size="477,295" zPosition="1" alphatest="blend" />
+<widget source="session.Event_Now" render="xtraBackdrop" position="8,457" size="477,295" cornerRadius="10" zPosition="5" borderWidth="2" borderColor="grey" transparent="1" />
+</screen>

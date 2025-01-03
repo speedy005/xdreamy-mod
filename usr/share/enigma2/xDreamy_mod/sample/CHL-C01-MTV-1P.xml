@@ -1,0 +1,28 @@
+<screen name="ChannelSelection" position="0,0" size="1920,1080" title="Channel Selection" backgroundColor="transparent" flags="wfNoBorder">
+  <panel name="ChannelSelectionTemplate" />
+  <panel name="flipclock_channel_sel" />
+  <!-- iPosterX Posters */ -->
+  <widget source="ServiceEvent" render="xtraPoster" position="1036,125" cornerRadius="10" size="280,400" zPosition="101" borderWidth="2" borderColor="grey" transparent="1" />
+  <!-- Event Description */ -->
+  <widget source="Event" render="Label" text="GenreList" position="1440,555" size="470,28" halign="left" font="NotoSans-Bold;24" transparent="1" backgroundColor="background" zPosition="5" foregroundColor="yellow">
+    <convert type="EventName">GenreList</convert>
+  </widget>
+  <ePixmap pixmap="xDreamy_mod/menu/no_poster52.png" cornerRadius="10" borderWidth="1" borderColor="ltbluette" position="1036,125" size="280,400" zPosition="1" alphatest="blend" />
+  <ePixmap position="1341,146" size="565,335" scale="1" pixmap="xDreamy_mod/menu/live_tv55.png" alphatest="blend" zPosition="0" />
+  <widget source="ServiceEvent" render="iRunningText" options="movetype=running,startpoint=0,direction=top,steptime=80,repeat=0,always=0,oneshot=0,startdelay=6000,wrap=1" position="1440,584" size="470,161" font="NotoSans-Bold;24" backgroundColor="transparent" valign="top" halign="center" transparent="1" zPosition="1" foregroundColor="green">
+    <convert type="EventName">FullDescription</convert>
+  </widget>
+  <eLabel name="" position="1030,545" size="880,1" foregroundColor="ltbluette" transparent="0" backgroundColor="ltbluette" />
+  <eLabel name="" position="1440,750" size="470,1" foregroundColor="ltbluette" transparent="0" backgroundColor="ltbluette" />
+  <!-- iPosterX Events */ -->
+  <widget source="ServiceEvent" render="iNxtEvnt" nxtEvents="" snglEvent="1" font="NotoSans-Bold;24" position="1440,758" size="470,30" halign="left" zPosition="5" foregroundColor="listRecording" backgroundColor="black" transparent="1" />
+  <widget source="ServiceEvent" render="iNxtEvnt" nxtEvents="" snglEvent="2" font="NotoSans-Bold;24" position="1440,790" size="470,30" halign="left" zPosition="5" foregroundColor="mediumblue" backgroundColor="black" transparent="1" />
+  <widget source="ServiceEvent" render="iNxtEvnt" nxtEvents="" snglEvent="3" font="NotoSans-Bold;24" position="1440,822" size="470,30" halign="left" zPosition="5" foregroundColor="mediumblue" backgroundColor="black" transparent="1" />
+  <widget source="ServiceEvent" render="iNxtEvnt" nxtEvents="" snglEvent="4" font="NotoSans-Bold;24" position="1440,854" size="470,30" halign="left" zPosition="5" foregroundColor="mediumblue" backgroundColor="black" transparent="1" />
+  <widget source="ServiceEvent" render="iNxtEvnt" nxtEvents="" snglEvent="5" font="NotoSans-Bold;24" position="1440,886" size="470,30" halign="left" zPosition="5" foregroundColor="mediumblue" backgroundColor="black" transparent="1" />
+  <widget source="ServiceEvent" render="iNxtEvnt" nxtEvents="" snglEvent="6" font="NotoSans-Bold;24" position="1440,918" size="470,30" halign="left" zPosition="5" foregroundColor="mediumblue" backgroundColor="black" transparent="1" />
+  <eLabel name="" position="1027,552" size="400,35" text="Event Information" backgroundColor="un101010" cornerRadius="5" font="NotoSans-Bold;24" halign="center" foregroundColor="yellow" transparent="1" />
+  <widget source="session.Event_Now" render="Label" position="1026,590" size="400, 360" font="NotoSans-Bold;32" halign="left" transparent="1" zPosition="2" backgroundColor="background" foregroundColor="listRecording" valign="top">
+    <convert type="xtraInfo">Title,Year,Rated,Genre,Type,Country,Duration,SE</convert>
+  </widget>
+</screen>
